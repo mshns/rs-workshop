@@ -1,1 +1,1 @@
-# mshns.github.io/rs-workshop/cv
+https://mshns.github.io/rs-workshop
